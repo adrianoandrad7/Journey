@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adria\\Desktop\\projetos\\Journey\\Journey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|c:\\users\\adria\\desktop\\projetos\\journey\\journey\\src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|solutionrelative:src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|c:\\users\\adria\\desktop\\projetos\\journey\\journey\\src\\journey.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|solutionrelative:src\\journey.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6290B8B-3A84-4743-96D1-6BBD3B81FE44}|tests\\Validators.Test\\Validators.Test.csproj|c:\\users\\adria\\desktop\\projetos\\journey\\journey\\tests\\validators.test\\validators.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6290B8B-3A84-4743-96D1-6BBD3B81FE44}|tests\\Validators.Test\\Validators.Test.csproj|solutionrelative:tests\\validators.test\\validators.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7491156F-1F24-41A3-A3C0-F4D75B730FEF}|src\\Journey.Infrastructure\\Journey.Infrastructure.csproj|c:\\users\\adria\\desktop\\projetos\\journey\\journey\\src\\journey.infrastructure\\journeydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7491156F-1F24-41A3-A3C0-F4D75B730FEF}|src\\Journey.Infrastructure\\Journey.Infrastructure.csproj|solutionrelative:src\\journey.infrastructure\\journeydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9941BF-6FB7-4CF6-9C74-FFE199F96A77}|src\\Journey.Exception\\Journey.Exception.csproj|c:\\users\\adria\\desktop\\projetos\\journey\\journey\\src\\journey.exception\\exceptionsbase\\journeyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9941BF-6FB7-4CF6-9C74-FFE199F96A77}|src\\Journey.Exception\\Journey.Exception.csproj|solutionrelative:src\\journey.exception\\exceptionsbase\\journeyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|c:\\users\\adria\\desktop\\projetos\\journey\\journey\\src\\journey.communication\\responses\\responseactivityjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|solutionrelative:src\\journey.communication\\responses\\responseactivityjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|c:\\users\\adria\\desktop\\projetos\\journey\\journey\\src\\journey.communication\\enums\\activitystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|solutionrelative:src\\journey.communication\\enums\\activitystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\users\\adria\\desktop\\projetos\\journey\\journey\\src\\journey.application\\usecases\\register\\registertripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\register\\registertripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\users\\adria\\desktop\\projetos\\journey\\journey\\src\\journey.application\\usecases\\getall\\getalltripsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\getall\\getalltripsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Desktop\\projetos\\Journey\\Journey\\src\\Journey.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\adria\\Desktop\\projetos\\Journey\\Journey\\src\\Journey.Api\\Program.cs",
+              "RelativeToolTip": "src\\Journey.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:13:35.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Validators.Test",
+              "DocumentMoniker": "C:\\Users\\adria\\Desktop\\projetos\\Journey\\Journey\\tests\\Validators.Test\\Validators.Test.csproj",
+              "RelativeDocumentMoniker": "tests\\Validators.Test\\Validators.Test.csproj",
+              "ToolTip": "C:\\Users\\adria\\Desktop\\projetos\\Journey\\Journey\\tests\\Validators.Test\\Validators.Test.csproj",
+              "RelativeToolTip": "tests\\Validators.Test\\Validators.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T13:13:17.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JourneyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Desktop\\projetos\\Journey\\Journey\\src\\Journey.Infrastructure\\JourneyDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Infrastructure\\JourneyDbContext.cs",
+              "ToolTip": "C:\\Users\\adria\\Desktop\\projetos\\Journey\\Journey\\src\\Journey.Infrastructure\\JourneyDbContext.cs",
+              "RelativeToolTip": "src\\Journey.Infrastructure\\JourneyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:12:34.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JourneyException.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Desktop\\projetos\\Journey\\Journey\\src\\Journey.Exception\\ExceptionsBase\\JourneyException.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Exception\\ExceptionsBase\\JourneyException.cs",
+              "ToolTip": "C:\\Users\\adria\\Desktop\\projetos\\Journey\\Journey\\src\\Journey.Exception\\ExceptionsBase\\JourneyException.cs",
+              "RelativeToolTip": "src\\Journey.Exception\\ExceptionsBase\\JourneyException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:12:23.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseActivityJson.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Desktop\\projetos\\Journey\\Journey\\src\\Journey.Communication\\Responses\\ResponseActivityJson.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Communication\\Responses\\ResponseActivityJson.cs",
+              "ToolTip": "C:\\Users\\adria\\Desktop\\projetos\\Journey\\Journey\\src\\Journey.Communication\\Responses\\ResponseActivityJson.cs",
+              "RelativeToolTip": "src\\Journey.Communication\\Responses\\ResponseActivityJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:12:18.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ActivityStatus.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Desktop\\projetos\\Journey\\Journey\\src\\Journey.Communication\\Enums\\ActivityStatus.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Communication\\Enums\\ActivityStatus.cs",
+              "ToolTip": "C:\\Users\\adria\\Desktop\\projetos\\Journey\\Journey\\src\\Journey.Communication\\Enums\\ActivityStatus.cs",
+              "RelativeToolTip": "src\\Journey.Communication\\Enums\\ActivityStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:12:15.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TripsController.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Desktop\\projetos\\Journey\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Api\\Controllers\\TripsController.cs",
+              "ToolTip": "C:\\Users\\adria\\Desktop\\projetos\\Journey\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
+              "RelativeToolTip": "src\\Journey.Api\\Controllers\\TripsController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIAwwCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:30:59.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterTripUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Desktop\\projetos\\Journey\\Journey\\src\\Journey.Application\\UseCases\\Register\\RegisterTripUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Register\\RegisterTripUseCase.cs",
+              "ToolTip": "C:\\Users\\adria\\Desktop\\projetos\\Journey\\Journey\\src\\Journey.Application\\UseCases\\Register\\RegisterTripUseCase.cs",
+              "RelativeToolTip": "src\\Journey.Application\\UseCases\\Register\\RegisterTripUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:34:23.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllTripsUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Desktop\\projetos\\Journey\\Journey\\src\\Journey.Application\\UseCases\\GetAll\\GetAllTripsUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\GetAll\\GetAllTripsUseCase.cs",
+              "ToolTip": "C:\\Users\\adria\\Desktop\\projetos\\Journey\\Journey\\src\\Journey.Application\\UseCases\\GetAll\\GetAllTripsUseCase.cs",
+              "RelativeToolTip": "src\\Journey.Application\\UseCases\\GetAll\\GetAllTripsUseCase.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:33:14.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

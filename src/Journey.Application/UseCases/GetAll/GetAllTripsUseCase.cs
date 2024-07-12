@@ -1,5 +1,6 @@
 ﻿using Journey.Communication.Responses;
 using Journey.Infrastructure;
+using Microsoft.EntityFrameworkCore;
 
 namespace Journey.Application.UseCases.GetAll
 {
@@ -9,7 +10,10 @@ namespace Journey.Application.UseCases.GetAll
         {
             var dbContext = new JourneyDbContext();
 
-            var trips = dbContext.Trips.ToList();
+            var trips = dbContext.
+                Trips
+                .Include(trip => trip.Activities)
+                .ToList();
 
             return new ResponseTripsJson
             {

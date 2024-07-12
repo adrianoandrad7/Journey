@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WAoLlpU91HE=",
+  "dgSpecHash": "6Mm+kkXaIAs=",
   "success": true,
   "projectFilePath": "C:\\Users\\adria\\Desktop\\projetos\\Journey\\Journey\\src\\Journey.Api\\Journey.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.7\\microsoft.data.sqlite.core.8.0.7.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.7\\microsoft.entityframeworkcore.8.0.7.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.7\\microsoft.entityframeworkcore.abstractions.8.0.7.nupkg.sha512",

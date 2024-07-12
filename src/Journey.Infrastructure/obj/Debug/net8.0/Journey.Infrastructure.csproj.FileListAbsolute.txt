@@ -10,3 +10,4 @@ C:\Users\adria\Desktop\projetos\Journey\Journey\src\Journey.Infrastructure\obj\D
 C:\Users\adria\Desktop\projetos\Journey\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.pdb
 C:\Users\adria\Desktop\projetos\Journey\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\ref\Journey.Infrastructure.dll
 C:\Users\adria\Desktop\projetos\Journey\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\adria\Desktop\projetos\Journey\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.sourcelink.json
